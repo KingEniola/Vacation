@@ -1,6 +1,5 @@
 /*
- * YYetunde Eniola Adegbegha
- * Chapter 10 Individual Lab
+ * Eniola Adegbegha
  * 04/28/2022
  */
 import java.text.DecimalFormat; 
